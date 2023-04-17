@@ -17,7 +17,7 @@ public class Leader1 : LeaderMain
 
     void Effets()
     {
-
+        /// sert a gerer les effets de la carte///
     }
 
     void Stats()
@@ -31,6 +31,6 @@ public class Leader1 : LeaderMain
 
     void ActiveSkill()
     {
-
+        ///gestion de l'actif du leader (depend du mana)///
     }
 }
